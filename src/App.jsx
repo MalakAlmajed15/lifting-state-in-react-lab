@@ -1,5 +1,3 @@
-// src/App.jsx
-
 import './App.css';
 import BurgerStack from './components/BurgerStack/BurgerStack'
 import IngredientList from './components/IngredientList/IngredientList'
